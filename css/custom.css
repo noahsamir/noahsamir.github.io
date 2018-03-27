@@ -1,0 +1,21 @@
+body {
+    /* CHANGE THE SECONDARY BACKGROUND COLOR */
+    background-color: #ffffff;
+}
+
+.page-wrapper {
+    /* CHANGE THE PRIMARY BACKGROUND COLOR */
+    background-color: rgb(255, 255, 255);
+}
+
+.cool-websites-link-1 {
+    /* CHANGE THE COLOURS OF THE FIRST WEBSITE LINK */
+    background-color: #002fff;
+    color: white;
+}
+
+.cool-websites-link-2 {
+    /* CHANGE THE COLOURS OF THE SECOND WEBSITE LINK */
+    background-color: #002fff;
+    color: white;
+}
